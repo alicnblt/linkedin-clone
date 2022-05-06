@@ -8,4 +8,4 @@
 ---
 [Linkedin](https://www.linkedin.com/in/ali-canbolat/)
 ---
-![Image](/assets/linkedin-clone-ss.png)"# linkedin-clone" 
+![Image](/assets/linkedin-clone-ss.png)
